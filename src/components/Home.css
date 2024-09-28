@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap'); /* Import a creative font */
+/*@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap'); /* Import a creative font */
 
 .hero {
   position: relative;
@@ -22,7 +22,7 @@
 }
 
 .card-text-overlay {
-  font-family: 'Pacifico', cursive;
+  font-family: 'Poppin', cursive;
   font-size: 1.5rem;
   animation: pulseText 2s infinite;
 }
